@@ -1,0 +1,34 @@
+
+<!--                  
+
+Anas Elhadidy
+
+Form and text format 
+10th gear software
+
+
+-->
+
+#menu  {position: absolute; top: 0px; left: 0px; height: 120px; padding: 0px}
+#menu ul   {list-style-type: none; padding: 0px; margin: -20px 0px 0px 15px; }
+ 
+#menu  ul li         {display: inline; color: black; font-size: 10px; margin: 0px 10px; padding: 0px}
+#menu ul li a       {color: black; text-decoration: none}
+#menu ul a:visited  {color: blue;}
+#menu ul a:hover {color: black; background-color: white;}
+#menu ul li a:hover {color: red}			  
+#heading {color: red; text-align: center; position: absoulute; center: 575px; width: 900px;}
+
+#inventory   {position :absolute, right: 10px; top: 10px; width: 300px;z-index: -1;}
+#sold        {position: absoulute, right: 10px: top: 40px; width: 300px; z-index: -1;}
+#recons      {position: absoulute, right: 10px: top: 40px; width: 300px; z-index: -1;}
+#commision        {position: absoulute, right: 10px: top: 40px; width: 300px; z-index: -1;}
+#Profit        {position: absoulute, right: 10px: top: 40px; width: 300px; z-index: -1;}
+#Pending        {position: absoulute, right: 10px: top: 40px; width: 300px; z-index: -1;}
+#DMV        {position: absoulute, right: 10px: top: 40px; width: 300px; z-index: -1;}
+#TAX        {position: absoulute, right: 10px: top: 40px; width: 300px; z-index: -1;}
+#Aged        {position: absoulute, right: 10px: top: 40px; width: 300px; z-index: -1;}
+#Expenses        {position: absoulute, right: 10px: top: 40px; width: 300px; z-index: -1;}
+
+
+
